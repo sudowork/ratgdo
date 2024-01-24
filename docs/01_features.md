@@ -84,7 +84,7 @@ Firmware types:
 		<td style="text-align: center; border-right: 1px solid #e5e5e5;">X</td>
 
 		<td style="text-align: center; color: red;">X/O<sup>4</sup></td>
-		<td style="text-align: center; color: red;">X/O<sup>4</sup><sup>4</sup></td>
+		<td style="text-align: center; color: red;">X/O<sup>4</sup></td>
 		<td style="text-align: center; border-right: 1px solid #e5e5e5;">+<sup>4</sup></td>
 
 		<td style="text-align: center;">o<sup>1</sup></td>
